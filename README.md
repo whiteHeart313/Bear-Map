@@ -8,4 +8,4 @@ TRIES DS for searching engine.
 KDTree DS is using in finding the shortest path.
 priority queue and its api.
 
-the front end is fully given and the data base aswell.
+the front end is fully given and the database aswell.
